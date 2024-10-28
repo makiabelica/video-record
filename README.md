@@ -21,3 +21,6 @@ Dependencias principales:
 - Jetpack Compose: Versión 1.5.0 o superior.
 - Material3: Implementación del diseño moderno de Google.
 - ViewModel: Para la gestión del estado de la aplicación.
+
+
+![image](https://github.com/user-attachments/assets/85947e5c-5f8b-49fc-ab8b-b68b6fe2b1e9)
